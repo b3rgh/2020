@@ -1,5 +1,7 @@
 # 2020
 
+![2020](2020.png)
+
 2020 is a personal tech trend report, created at the turn of the decade. I bundled my thoughts and feelings regarding technology in society today, reflecting on possible ways forward. I ended up with a coloring book of twelve smart technologies; twelve cameras; twelve concerns.
 
 This colouring book is about freedom, love, and futures.
